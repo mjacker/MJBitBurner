@@ -7,3 +7,4 @@
 
 * 02 Scripts:
     - Get server Information.
+    - Nuke it: Get Admin Rights.
